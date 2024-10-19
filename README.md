@@ -19,7 +19,7 @@ Welcome to the **Data Summarization Tool**, an advanced web application that hel
 - **JavaScript & HTML**: Enhances the frontend experience.
 - **NLP & NLTK**: Applies core concepts from Natural Language Processing.
   
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
